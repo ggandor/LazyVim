@@ -1,5 +1,12 @@
 # Changelog
 
+## [15.14.0](https://github.com/LazyVim/LazyVim/compare/v15.13.0...v15.14.0) (2025-11-03)
+
+
+### Features
+
+* **treesitter:** support query table in treesitter-textobjects mappings ([#6736](https://github.com/LazyVim/LazyVim/issues/6736)) ([42c9f71](https://github.com/LazyVim/LazyVim/commit/42c9f7152b9bd1a4f739b115390370c208dc2a55))
+
 ## [15.13.0](https://github.com/LazyVim/LazyVim/compare/v15.12.2...v15.13.0) (2025-11-01)
 
 
